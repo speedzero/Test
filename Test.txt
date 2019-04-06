@@ -1,12 +1,8 @@
 <<<<<<< HEAD
 测试文档
-<<<<<<< HEAD
 添加最新版本
 
 测试二
 =======
 测试文档
 >>>>>>> parent of b404e58... Merge pull request #1 from speedzero/music
-=======
-添加最新版本
->>>>>>> parent of 7f412bf... Update Test.txt
