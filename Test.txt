@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 测试文档
 添加最新版本
 
 测试二
-=======
-测试文档
->>>>>>> parent of b404e58... Merge pull request #1 from speedzero/music
